@@ -1,0 +1,10 @@
+Hi,
+I'm Venugopal
+Create a repository in github.
+create codes in your computer.
+open command prompt and cd to the directory where you have created codes.
+git init in command prompt.
+
+git remote add origin https://github.com/venugopalpanga/shared2.git
+
+git status
